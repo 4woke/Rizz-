@@ -1,5 +1,5 @@
 :root {
-  --app-bg: rgba(0,0,0,0);
+  --app-bg: rgba(0,0,0,0.5);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
